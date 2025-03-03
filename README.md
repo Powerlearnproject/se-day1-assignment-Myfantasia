@@ -13,8 +13,11 @@ Software Engineering os the systematic approach in designing, developing, testin
 Importance:
 
 Economic Growth - It widely contributes significantly to the global economy, creating jobs and enabling new business models.
+
 Data management - it enables the collection, analysis and interpretation of vast amounts of data
+
 Innovation and Advancement - It drive innovation, creating new technologies and applications that improve everyday life and business processes.
+
 Reliability and Quality - It ensures that apps are reliabble, secure and are of high quality which is crucial in critical systems like healthcare, finance, and transportation.
 
 
@@ -33,10 +36,15 @@ List and briefly explain the phases of the Software Development Life Cycle.
 Answers:
 
 Planning - A project plan is developed, outlining the resources, timeline, and scope of the project.
+
 Requirement Analysis - involves gathering detailed information about what the software should achieve.
+
 System Design - Based on the requirements gathered, the system architecture and design are created. This includes high-level system architecture, detailed component design, database design, and user interface design
+
 Coding - The actual code is written based on the design documents. Developers use programming languages and tools to create the software modules.
+
 Testing - Testing is conducted to ensure that the software is free of bugs and meets the specified requirements.
+
 Maintainance - This includes monitoring the software for any issues, fixing bugs, making updates, and adding new features as needed.
 
 
