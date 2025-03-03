@@ -21,6 +21,7 @@ Innovation and Advancement - It drive innovation, creating new technologies and 
 Reliability and Quality - It ensures that apps are reliabble, secure and are of high quality which is crucial in critical systems like healthcare, finance, and transportation.
 
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 Answers:
@@ -29,6 +30,7 @@ The Inception of Structured Programming - The introduction of structured program
 The Development of Object-Oriented Programming - Object-oriented programming introduced the concept of objects which are instances of classes that encapsulate data and behavior where it has enabled modular, reusable, and maintainable code.
 
 The Advent of Agile Methodologies - It has transformed software development processes by promoting iterative, incremental development cycles and emphasizing collaboration, flexibility, and customer feedback by the use of frameworks which has enabled developers to adapt to changing requirements and deliver working software more frequently
+
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -46,6 +48,7 @@ Coding - The actual code is written based on the design documents. Developers us
 Testing - Testing is conducted to ensure that the software is free of bugs and meets the specified requirements.
 
 Maintainance - This includes monitoring the software for any issues, fixing bugs, making updates, and adding new features as needed.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
